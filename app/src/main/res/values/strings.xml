@@ -6,4 +6,10 @@
     <string name="to_frag_D">Go to fragment D</string>
     <string name="hi_to_fragC">Hello to FragmentC</string>
     <string name="back_to_fragA">Back to FragmentA</string>
+    <string name="open_task2">Open task2</string>
+    <string name="user_firstname">First name</string>
+    <string name="user_secondname">Second name</string>
+    <string name="user_phone">Phone number</string>
+    <string name="user_image">Link to image</string>
+    <string name="user_save">Save</string>
 </resources>
