@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FragmentNav</string>
+    <string name="to_frag_B">Перейти к фрагменту B</string>
+    <string name="to_frag_A">Перейти к фрагменту A</string>
+    <string name="to_frag_C">Перейти к фрагменту C</string>
+    <string name="to_frag_D">Перейти к фрагменту D</string>
+    <string name="hi_to_fragC">Привет фрагменту С!</string>
+    <string name="back_to_fragA">Назад на фрагмент А</string>
+</resources>
