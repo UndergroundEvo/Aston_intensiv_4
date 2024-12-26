@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FragmentNav</string>
+    <string name="to_frag_B">Перейти к фрагменту B</string>
+    <string name="to_frag_A">Перейти к фрагменту A</string>
+    <string name="to_frag_C">Перейти к фрагменту C</string>
+    <string name="to_frag_D">Перейти к фрагменту D</string>
+    <string name="hi_to_fragC">Привет фрагменту С!</string>
+    <string name="back_to_fragA">Назад на фрагмент А</string>
+    <string name="open_task2">Открыть второе задание</string>
+    <string name="user_firstname">Имя</string>
+    <string name="user_secondname">Фамилия</string>
+    <string name="user_phone">Номер телефона</string>
+    <string name="user_image">Ссылка на фото</string>
+    <string name="user_save">Сохранить</string>
+</resources>
